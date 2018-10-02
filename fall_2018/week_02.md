@@ -4,7 +4,7 @@
 
 ## This Week's Plan
 
-> Look for new work.
+> Adding to Master branch
 
 
 ## Anything Blocking?
