@@ -1,10 +1,10 @@
 ## Last Week's Accomplishments
 
-> Started working on solution.
+> Found new problem: IC's don't work.
 
 ## This Week's Plan
 
-> Finish solution
+> Work on IC's
 
 ## Anything Blocking?
 
