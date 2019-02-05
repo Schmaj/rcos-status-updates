@@ -9,7 +9,7 @@
 
 ## Anything Blocking?
 
-> I have to become familiar
+> I have to become familiar with the methods and new structure of the code.  I also have to become accustomed with the typescript syntax as opposed to the javascript syntax.
 
 
 ## Notes
